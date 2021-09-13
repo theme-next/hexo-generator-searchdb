@@ -1,3 +1,5 @@
+**Deprecated: [new repository in here](https://github.com/next-theme/hexo-generator-searchdb)**
+
 # hexo-generator-searchdb
 
 [![npm-image]][npm-url]
